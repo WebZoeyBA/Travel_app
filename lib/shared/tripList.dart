@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:travel_app/models/trip.dart';
+import 'package:travel_app/models/Trip.dart';
 import 'package:travel_app/screens/details.dart';
 
 class TripList extends StatefulWidget {

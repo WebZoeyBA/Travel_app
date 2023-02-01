@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:travel_app/models/trip.dart';
+import 'package:travel_app/models/Trip.dart';
 import 'package:travel_app/shared/heart.dart';
 import 'package:lipsum/lipsum.dart' as lipsum;
 

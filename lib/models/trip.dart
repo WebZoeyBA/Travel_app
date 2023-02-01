@@ -3,6 +3,7 @@ class Trip {
   final String price;
   final String nights;
   final String img;
+
   Trip(
       {required this.title,
       required this.price,
